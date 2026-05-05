@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Priyanka
 
-<!--
-**Kosurisaipriyanka/Kosurisaipriyanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IoT student with a strong interest in Data Analysis and problem solving using Python.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Pandas
+- Data Analysis
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Titanic Data Analysis  
+  Performed exploratory data analysis to understand survival patterns using Python, Pandas, Matplotlib, and Seaborn.
+
+## Currently Learning
+- Machine Learning
+- Advanced Data Analysis
+
+## Goals
+- Build real-world data projects  
+- Improve analytical and problem-solving skills  
+- Gain practical experience in data science  
+
+## Contact
+- LinkedIn: [KosuriSaiPriyanka-LinkedIn](https://www.linkedin.com/in/sai-priyanka-kosuri-631310338/)
+- Email: kosurisaipriyanka@gmail.com
+- GitHub: [Kosurisaipriyanka-GitHub](https://github.com/Kosurisaipriyanka)
