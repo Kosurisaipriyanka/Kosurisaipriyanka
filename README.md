@@ -23,5 +23,5 @@ I am an IoT student with a strong interest in Data Analysis and problem solving 
 
 ## Contact
 - LinkedIn: [KosuriSaiPriyanka-LinkedIn](https://www.linkedin.com/in/sai-priyanka-kosuri-631310338/)
-- Email: kosurisaipriyanka@gmail.com
+- Email: saipriyankakosuri@gmail.com
 - GitHub: [Kosurisaipriyanka-GitHub](https://github.com/Kosurisaipriyanka)
